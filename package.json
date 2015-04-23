@@ -1,0 +1,22 @@
+{
+  "name": "new2node",
+  "version": "0.0.1",
+  "description": "Playing with node Application",
+  "author": {
+    "name": "Hypyrdon",
+    "email": "noone@hypyrdon.loc",
+    "url": "http://www.hypyrdon.loc/"
+  },
+  "homepage": "http://www.hypyrdon.loc/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hypyrdon/new2node"
+  },
+
+  "engines": {
+    "node": ">= 0.12.2",
+    "npm": ">= 2.8.3"
+  },
+
+  "main": "server.js"
+}
