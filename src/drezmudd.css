@@ -28,3 +28,18 @@ input,select {
 	color: #008080; 
 }
 
+#login-buttons {
+  margin: -10px auto 10px 0;
+  border: 2px solid darkblue;
+}
+
+#login-dropdown-list {
+	background-color: #004040;
+	color: #00C0C0;
+}
+
+.login-button {
+	background-color: #008080 !important ;
+	color: #00FFFF !important ;
+}
+
