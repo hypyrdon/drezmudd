@@ -1,1 +1,30 @@
 /* CSS declarations go here */
+/* #002020 - dk cyan 20
+/* #004040 - dk cyan 40
+/* #008080 - dk cyan 60
+/* #00C0C0 - cyan 
+/* #00FFFF - bright cyan
+ *
+ * */
+body {
+	background-color: #002020;
+	background-image: linear-gradient(to bottom, #002020, #004040 100%);
+	background-attachment: fixed;
+	color: #0CC;
+
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+
+	padding: 0;
+	margin: 0;
+
+	font-size: 20px;
+}
+
+input,select {
+	color: #008080; 
+}
+
